@@ -1,0 +1,11 @@
+﻿  CustomExpressionEvaluator.cpp
+D:\User\Desktop\OOP-main\3\3\CustomExpressionEvaluator.cpp(12,4): warning C4551: в вызове функции отсутствует список аргументов
+D:\User\Desktop\OOP-main\3\3\CustomExpressionEvaluator.cpp(83,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\User\Desktop\OOP-main\3\3\CustomExpressionEvaluator.cpp(79,9): warning C4101: temp: неиспользованная локальная переменная
+  ExpressionEvaluator.cpp
+D:\User\Desktop\OOP-main\3\3\ExpressionEvaluator.cpp(28,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Substractor.cpp
+  Summator.cpp
+  Создание кода...
+  3.vcxproj -> D:\User\Desktop\OOP-main\3\x64\Debug\1.exe

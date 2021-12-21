@@ -1,0 +1,30 @@
+﻿  Airfreighter.cpp
+D:\User\Desktop\OOP-main\3\2\Airfreighter.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airfreighter.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airfreighter.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airfreighter.h(5,29): warning C4584: Airfreighter: базовый класс "ILoadable" уже является базовым классом для "Airplane"
+D:\User\Desktop\OOP-main\3\2\ILoadable.h(7): message : см. объявление "ILoadable"
+D:\User\Desktop\OOP-main\3\2\Airplane.h(6): message : см. объявление "Airplane"
+  Airliner.cpp
+D:\User\Desktop\OOP-main\3\2\Airliner.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airliner.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airliner.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airliner.h(6,25): warning C4584: Airliner: базовый класс "ILoadable" уже является базовым классом для "Airplane"
+D:\User\Desktop\OOP-main\3\2\ILoadable.h(7): message : см. объявление "ILoadable"
+D:\User\Desktop\OOP-main\3\2\Airplane.h(6): message : см. объявление "Airplane"
+  ILoadable.cpp
+  main.cpp
+D:\User\Desktop\OOP-main\3\2\Airfreighter.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airfreighter.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airfreighter.h(5,29): warning C4584: Airfreighter: базовый класс "ILoadable" уже является базовым классом для "Airplane"
+D:\User\Desktop\OOP-main\3\2\ILoadable.h(7): message : см. объявление "ILoadable"
+D:\User\Desktop\OOP-main\3\2\Airplane.h(6): message : см. объявление "Airplane"
+D:\User\Desktop\OOP-main\3\2\Airliner.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airliner.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Desktop\OOP-main\3\2\Airliner.h(6,25): warning C4584: Airliner: базовый класс "ILoadable" уже является базовым классом для "Airplane"
+D:\User\Desktop\OOP-main\3\2\ILoadable.h(7): message : см. объявление "ILoadable"
+D:\User\Desktop\OOP-main\3\2\Airplane.h(6): message : см. объявление "Airplane"
+D:\User\Desktop\OOP-main\3\2\main.cpp(107,21): warning C4930: std::string ILoadableToString(ILoadable): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Airplane.cpp
+  Создание кода...
+  2.vcxproj -> D:\User\Desktop\OOP-main\3\x64\Debug\2.exe
